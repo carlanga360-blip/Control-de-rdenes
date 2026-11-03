@@ -1,0 +1,11 @@
+{
+  "name": "Infocomunicaciones · Inventario de Cableras",
+  "short_name": "Infocom",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f2",
+  "theme_color": "#3a8f34",
+  "lang": "es",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
